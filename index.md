@@ -3,7 +3,7 @@
 ## Навыки:
 
 - ### Теория:
-  - OSI, TCP/IP, HTTP/HTTPS, DNS, SS7, DSS1, SIP
+  - OSI, TCP/IP, HTTP/HTTPS, DNS, SS7, DSS1, SIP, PDH/SDH, DWDM/CWDM
 - ### Практика:
   1. Мониторинг **Iskratel SI2000/SI3000** (FMS Client SI-3000, Alarm Monitoring);
   2. Мониторинг/управление **Alcatel 1000 S-12** (Repview);
@@ -11,7 +11,7 @@
   4. **T-SQL** (SQL Server 2008 R2 + SSMS);
   5. Администрирование **АПК "Ценсор"** (ООО "Компьютерные технологии");
   6. Создание инцидентов на сети в **Orange Sceptor**
-  7. Ведение и решение задач по **АПК "Ценсор" в Jira** (через Kanban-доску).
+  7. Ведение и решение задач по **АПК "Ценсор" в Jira** (Kanban).
      
 ## Образование
 
