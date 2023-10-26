@@ -3,7 +3,7 @@ logo: /assets/images/headshot_circle.png
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
-description: <br><a href="https://t.me/anatolyv99">Contact me on Telegram</a>
+description: <br><a href="https://t.me/anatolyv99"><img src="https://img.shields.io/badge/%D0%9D%D0%B0%D0%BF%D0%B8%D1%81%D0%B0%D1%82%D1%8C%20%D0%B2%20Telegram-blue?logo=telegram&logoColor=plastic"></a>
 # remote_theme: pages-themes/cayman@v0.2.0
 
 # remote_theme: pages-themes/architect@v0.2.0
